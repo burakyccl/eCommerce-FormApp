@@ -1,0 +1,15 @@
+C:\Code Database\C# Projects\SiparisProjesi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\SiparisOtomasyon.csprojAssemblyReference.cache
+C:\Code Database\C# Projects\SiparisProjesi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\SiparisOtomasyon.Properties.Resources.resources
+C:\Code Database\C# Projects\SiparisProjesi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\SiparisOtomasyon.csproj.GenerateResource.cache
+C:\Code Database\C# Projects\SiparisProjesi\SiparisOtomasyon\SiparisOtomasyon\bin\Debug\SiparisOtomasyon.exe.config
+C:\Code Database\C# Projects\SiparisProjesi\SiparisOtomasyon\SiparisOtomasyon\bin\Debug\SiparisOtomasyon.exe
+C:\Code Database\C# Projects\SiparisProjesi\SiparisOtomasyon\SiparisOtomasyon\bin\Debug\SiparisOtomasyon.pdb
+C:\Code Database\C# Projects\SiparisProjesi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\SiparisOtomasyon.Form1.resources
+C:\Code Database\C# Projects\SiparisProjesi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\SiparisOtomasyon.exe
+C:\Code Database\C# Projects\SiparisProjesi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\SiparisOtomasyon.pdb
+C:\Code Database\C# Projects\SiparisProjesi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\SiparisOtomasyon.KullaniciPaneli.resources
+C:\Code Database\C# Projects\SiparisProjesi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\SiparisOtomasyon.YoneticiPaneli.resources
+C:\Code Database\C# Projects\SiparisProjesi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\SiparisOtomasyon.SatinAl.resources
+C:\Code Database\C# Projects\SiparisProjesi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\SiparisOtomasyon.YoneticiMusteriTakip.resources
+C:\Code Database\C# Projects\SiparisProjesi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\SiparisOtomasyon.YoneticiMusteriTakipSiparis.resources
+C:\Code Database\C# Projects\SiparisProjesi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\SiparisOtomasyon.csproj.CoreCompileInputs.cache
