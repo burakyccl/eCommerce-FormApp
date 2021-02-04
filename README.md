@@ -2,7 +2,7 @@
  
 E-Commerce site but in Form App! Dozens of product waits for you. Go ahead put it in your basket and buy now!
 
-> No Refund Policy.
+> We have no refund policy.
 
 ##
 #### Features
